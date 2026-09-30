@@ -1,1 +1,2 @@
 Hola Git, este es mi primer archivo.
+Estoy aprendiendo Git paso a paso.
